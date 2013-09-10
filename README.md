@@ -24,9 +24,9 @@ A palindromic number reads the same both ways. The largest palindrome made from 
 smallest positive number that is evenly divisible by all of the numbers from 1 to 20?
 
 6.  Sum square difference  
-The sum of the squares of the first ten natural numbers is, 12 + 22 + ... + 102 = 385. The square of the sum of the first ten
-natural numbers is, (1 + 2 + ... + 10)2 = 552 = 3025. Hence the difference between the sum of the squares of the first ten
-natural numbers and the square of the sum is 3025 − 385 = 2640. Find the difference between the sum of the squares of the
+The sum of the squares of the first ten natural numbers is, `12 + 22 + ... + 102 = 385`. The square of the sum of the first ten
+natural numbers is, `(1 + 2 + ... + 10)2 = 552 = 3025`. Hence the difference between the sum of the squares of the first ten
+natural numbers and the square of the sum is `3025 − 385 = 2640`. Find the difference between the sum of the squares of the
 first one hundred natural numbers and the square of the sum.
 
 7.  10001st prime  
@@ -56,12 +56,12 @@ Find the greatest product of five consecutive digits in the 1000-digit number.
 71636269561882670428252483600823257530420752963450  
 
 9.  Special Pythagorean triplet  
-A Pythagorean triplet is a set of three natural numbers, a < b < c, for which, a2 + b2 = c2. For example,  
-32 + 42 = 9 + 16 = 25 = 52. There exists exactly one Pythagorean triplet for which a + b + c = 1000. Find  
+A Pythagorean triplet is a set of three natural numbers, `a < b < c`, for which, `a^2 + b^2 = c^2`. For example,  
+`32 + 42 = 9 + 16 = 25 = 52`. There exists exactly one Pythagorean triplet for which `a + b + c = 1000`. Find  
 the product abc.
 
 10. Summation of primes  
-The sum of the primes below 10 is 2 + 3 + 5 + 7 = 17. Find the sum of all the primes below two million.
+The sum of the primes below 10 is `2 + 3 + 5 + 7 = 17`. Find the sum of all the primes below two million.
 
 11. Largest product in a grid  
   In the 20×20 grid below, four numbers along a diagonal line have been marked
